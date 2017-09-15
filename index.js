@@ -15,10 +15,10 @@ function dosToUnix (file, options, cb) {
   } else if (options.write === undefined) {
     options.write = false
   }
-  // Run file through dos2unix module.
+  // Run file through dos2unix-js module.
   let converted = dos2unix(file, options)
   if (converted === undefined) { // === 1) {
-    // Read any file unchanged by dos2unix too.
+    // Read any file unchanged by dos2unix-js too.
     converted = fs.readFileSync(file)
   }
   return cb(null, converted)
