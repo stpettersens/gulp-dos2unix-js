@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/stpettersens/gulp-dos2unix-js.png?branch=master)](https://travis-ci.org/stpettersens/gulp-dos2unix-js)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
-[![npm version](https://badge.fury.io/js/gulp-dos2unix-js.svg)](http://npmjs.com/package/gulp-dos2unix)
+[![npm version](https://badge.fury.io/js/gulp-dos2unix-js.svg)](http://npmjs.com/package/gulp-dos2unix-js)
 [![Dependency Status](https://david-dm.org/stpettersens/gulp-dos2unix-js.png?theme=shields.io)](https://david-dm.org/stpettersens/gulp-dos2unix-js) [![Development Dependency Status](https://david-dm.org/stpettersens/gulp-dos2unix-js/dev-status.png?theme=shields.io)](https://david-dm.org/stpettersens/gulp-dos2unix-js#info=devDependencies)
 
 ##### Install:
